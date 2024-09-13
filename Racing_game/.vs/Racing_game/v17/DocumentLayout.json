@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Racing_game\\Racing_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|G:\\Racing_game\\Racing_game\\racing_game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|g:\\racing_game\\racing_game\\racing_game\\adventure_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\adventure_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|g:\\racing_game\\racing_game\\racing_game\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|G:\\Racing_game\\Racing_game\\racing_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|g:\\racing_game\\racing_game\\racing_game\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|G:\\Racing_game\\Racing_game\\racing_game\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|g:\\racing_game\\racing_game\\racing_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|g:\\racing_game\\racing_game\\racing_game\\adventure_game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\adventure_game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|g:\\racing_game\\racing_game\\racing_game\\space_wars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\space_wars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|G:\\Racing_game\\Racing_game\\racing_game\\space_wars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\space_wars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|g:\\racing_game\\racing_game\\racing_game\\space_wars.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\space_wars.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|G:\\Racing_game\\Racing_game\\racing_game\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{AE492E0C-76B1-45BB-BC3F-85E581FFC4E4}|Racing_game\\Racing_game.csproj|solutionrelative:racing_game\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Form1.cs",
+              "RelativeDocumentMoniker": "Racing_game\\Form1.cs",
+              "ToolTip": "C:\\Users\\RedwanulIslam\\source\\repos\\Racing_game\\Racing_game\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:38:12.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\GameForm.cs",
+              "RelativeDocumentMoniker": "Racing_game\\GameForm.cs",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\GameForm.cs",
+              "RelativeToolTip": "Racing_game\\GameForm.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAIwLYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:16:20.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\GameForm.cs",
+              "RelativeDocumentMoniker": "Racing_game\\GameForm.cs",
+              "ToolTip": "C:\\Users\\RedwanulIslam\\source\\repos\\Racing_game\\Racing_game\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:14:37.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adventure_Game.cs",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Adventure_Game.cs",
+              "RelativeDocumentMoniker": "Racing_game\\Adventure_Game.cs",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\Adventure_Game.cs",
+              "RelativeToolTip": "Racing_game\\Adventure_Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:54:59.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Space_wars.cs",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Space_wars.cs",
+              "RelativeDocumentMoniker": "Racing_game\\Space_wars.cs",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\Space_wars.cs",
+              "RelativeToolTip": "Racing_game\\Space_wars.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:59:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Form1.cs",
+              "RelativeDocumentMoniker": "Racing_game\\Form1.cs",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\Form1.cs",
+              "RelativeToolTip": "Racing_game\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:54:01.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Space_wars.Designer.cs",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Space_wars.Designer.cs",
+              "RelativeDocumentMoniker": "Racing_game\\Space_wars.Designer.cs",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\Space_wars.Designer.cs",
+              "RelativeToolTip": "Racing_game\\Space_wars.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:13:03.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Racing_game\\Properties\\Resources.resx",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\Properties\\Resources.resx",
+              "RelativeToolTip": "Racing_game\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-14T09:49:37.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "Racing_game\\GameForm.Designer.cs",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\GameForm.Designer.cs",
+              "RelativeToolTip": "Racing_game\\GameForm.Designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:18:30.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adventure_Game.Designer.cs",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Adventure_Game.Designer.cs",
+              "RelativeDocumentMoniker": "Racing_game\\Adventure_Game.Designer.cs",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\Adventure_Game.Designer.cs",
+              "RelativeToolTip": "Racing_game\\Adventure_Game.Designer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:14:04.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Space_wars.cs [Design]",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Space_wars.cs",
+              "RelativeDocumentMoniker": "Racing_game\\Space_wars.cs",
+              "ToolTip": "C:\\Users\\RedwanulIslam\\source\\repos\\Racing_game\\Racing_game\\Space_wars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:28:22.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "G:\\Racing_game\\Racing_game\\Racing_game\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Racing_game\\Properties\\Settings.settings",
+              "ToolTip": "G:\\Racing_game\\Racing_game\\Racing_game\\Properties\\Settings.settings",
+              "RelativeToolTip": "Racing_game\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-20T02:54:53.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
